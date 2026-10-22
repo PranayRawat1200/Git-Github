@@ -12,3 +12,7 @@ git commit -m "messege"
 git push origin name-of-branch
 
 pr = pull request
+
+git checkout -b pranay
+iss command se humne ek new branch banai hai
+or jo bhi humne isme banai hai usko push karake
