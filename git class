@@ -1,5 +1,14 @@
+jab code ko apn pheli baar push karte hai tb 5 karte hai
 git init
 git add .
 git commit -m "messege"
 git remote add origin link
 git push origin name-of-branch
+
+jab virse push karna ho tb 3 karte hai
+
+git add .
+git commit -m "messege"
+git push origin name-of-branch
+
+pr = pull request
